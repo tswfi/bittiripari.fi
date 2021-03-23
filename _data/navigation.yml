@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Kategoriat"
+    url: /kategoriat/
+  - title: "Tagit"
+    url: /tagit/
+  - title: "Tietoja"
+    url: /tietoja/

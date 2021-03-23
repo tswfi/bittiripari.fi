@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
+title: "Arkisto"
+permalink: /arkisto/
 layout: posts
-author_profile: true
+author_profile: false
 ---

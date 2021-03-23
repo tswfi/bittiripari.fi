@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Kategoriat"
 layout: categories
-permalink: /categories/
-author_profile: true
+permalink: /kategoriat/
+author_profile: false
 ---

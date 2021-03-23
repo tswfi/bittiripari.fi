@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Tagit"
+permalink: /tagit/
 layout: tags
 author_profile: true
 ---
